@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Leticia 🇲🇽
-#### I am a **Special Education teacher** at an elementary school.
+##Self-taught web developer & learning about WCAG 2.1 guidelines
 
 
 I am a Special Education teacher at an elementary school with over 10 years of experience working with **people with disabilities**. During the COVID-19 pandemic, I expanded my expertise to include **digital accessibility**, building on my existing knowledge of high-tech assistive technologies. Since January 2023, I have been learning to code and applying **WCAG 2.1 guidelines** to develop accessible websites.
