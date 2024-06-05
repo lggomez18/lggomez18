@@ -5,9 +5,11 @@
 I am a Special Education teacher at an elementary school with over 10 years of experience working with **people with disabilities**. During the COVID-19 pandemic, I expanded my expertise to include **digital accessibility**, building on my existing knowledge of high-tech assistive technologies. Since January 2023, I have been learning to code and applying **WCAG 2.1 guidelines** to develop accessible websites.
 
 ## Skills: 
-💻 HTML / CSS / JS / Bootstrap
-⚛️ REACT
-♿️ WCAG 2.1 
+    💻 HTML / CSS / JS / Bootstrap
+    ⚛️ REACT
+    ♿️ WCAG 2.1
+    🚀 Netlify
+    🐈‍⬛ github
 
 
 - 🔭 I’m currently working on learning React 
