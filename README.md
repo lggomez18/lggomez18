@@ -16,6 +16,8 @@ Skills: WCAG 2.1/ Bootstrap/ REACT / JS / HTML / CSS /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leticia-gomez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/lggomex18)  
 
+[![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lggomez18)](https://github.com/lggomez18/github-readme-stats)
+
 <!---
 lggomez18/lggomez18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
