@@ -12,8 +12,9 @@ Skills: WCAG 2.1/ Bootstrap/ REACT / JS / HTML / CSS /
 - 📫 How to reach me: LinkedIn 
 
 
-![LinkedIn] (img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40')(https://www.linkedin.com/in/leticia-gomez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/lggomex18)  
+![github](/images/icon.png)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leticia-gomez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/lggomex18)  
 
 <!---
 lggomez18/lggomez18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
